@@ -29,10 +29,6 @@
           "url": "/#projects"
         },
         {
-          "label": "Blog",
-          "url": "/blog"
-        },
-        {
           "label": "Contact",
           "url": "/#contact"
         }
