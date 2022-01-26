@@ -25,12 +25,12 @@
           "url": "/#about"
         },
         {
-          "label": "Blog",
-          "url": "/blog"
-        },
-        {
           "label": "Projects",
           "url": "/#projects"
+        },
+        {
+          "label": "Blog",
+          "url": "/blog"
         },
         {
           "label": "Contact",
@@ -44,12 +44,8 @@
       },
       "footer": [
         {
-          "label": "Privacy",
-          "url": "/privacy"
-        },
-        {
-          "label": "Imprint",
-          "url": "/imprint"
+          "label": "Back to top",
+          "url": "/"
         }
       ]
     },

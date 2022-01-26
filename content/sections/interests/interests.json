@@ -3,56 +3,70 @@
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "React JS",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Python",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Django",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Git",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "PostgreSQL",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "MongoDB",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Bootstrap",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "EJS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "API implementation",
+      "image": {
+        "src": "",
         "alt": ""
       }
     }
@@ -60,6 +74,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 3
   }
 }
