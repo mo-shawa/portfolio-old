@@ -3,70 +3,84 @@
     {
       "label": "JavaScript",
       "image": {
-        "src": "",
+        "src": "../../images/javascript-icon (1).png",
         "alt": ""
       }
     },
     {
-      "label": "React JS",
+      "label": "React.js",
       "image": {
-        "src": "",
+        "src": "../../images/react-3-1175109.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "../../images/node-js-icon.png",
         "alt": ""
       }
     },
     {
       "label": "Python",
       "image": {
-        "src": "",
+        "src": "../../images/python-icon (1).png",
         "alt": ""
       }
     },
     {
       "label": "Django",
       "image": {
-        "src": "",
+        "src": "../../images/django-3629322-3031821 (1).png",
         "alt": ""
       }
     },
     {
-      "label": "Git",
+      "label": "Github",
       "image": {
-        "src": "",
+        "src": "../../images/github-icon (1).png",
         "alt": ""
       }
     },
     {
       "label": "PostgreSQL",
       "image": {
-        "src": "",
+        "src": "../../images/postgresql-226047 (1).png",
         "alt": ""
       }
     },
     {
       "label": "MongoDB",
       "image": {
-        "src": "",
+        "src": "../../images/mongodb-3629020-3030245 (1).png",
         "alt": ""
       }
     },
     {
       "label": "Bootstrap",
       "image": {
-        "src": "",
+        "src": "../../images/bootstrap-226077 (1).png",
         "alt": ""
       }
     },
     {
       "label": "EJS",
       "image": {
-        "src": "",
+        "src": "../../images/ejs-icon (1).png",
         "alt": ""
       }
     },
     {
-      "label": "API implementation",
+      "label": "HTML5",
       "image": {
-        "src": "",
+        "src": "../../images/HTML5_Logo_256 (1).png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS3",
+      "image": {
+        "src": "../../images/css3-2038878-1720091 (1).png",
         "alt": ""
       }
     }

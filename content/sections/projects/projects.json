@@ -12,7 +12,7 @@
         "Node.js"
       ],
       "image": {
-        "src": "../../images/savequest_screenshot (1).png",
+        "src": "../../images/SaveQuest_scaled.png",
         "alt": "SaveQuest Dashboard"
       },
       "links": [
@@ -38,7 +38,7 @@
         "PostgreSQL"
       ],
       "image": {
-        "src": "../../images/Hellofren_screenshot (1).png",
+        "src": "../../images/hellofren_scaled.png",
         "alt": "HelloFren Feed"
       },
       "links": [
@@ -65,7 +65,7 @@
         "MongoDB"
       ],
       "image": {
-        "src": "../../images/HoG_screenshot (1).png",
+        "src": "../../images/HoG_scaled.png",
         "alt": "Quick Setup"
       },
       "links": [
@@ -75,7 +75,7 @@
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "http://hallofgame.herokuapp.com/"
         }
       ]
     },
@@ -91,7 +91,7 @@
         "Jquery"
       ],
       "image": {
-        "src": "../../images/Blackjack_screenshot (1).png",
+        "src": "../../images/Blackjack_scaled.png",
         "alt": "Blackjack Screenshot"
       },
       "links": [

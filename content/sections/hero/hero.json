@@ -1,16 +1,16 @@
 {
-  "intro": "Hi there!",
+  "intro": "Hello there!",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
   "title": "I'm Mahmoud",
   "subtitle": {
-    "prefix": "I'm a ",
-    "highlight": "Full-Stack Developer",
-    "suffix": "."
+    "prefix": " I'm a ",
+    "highlight": "Full-Stack",
+    "suffix": " Developer."
   },
-  "description": " I'm actively looking for a full-time development position!",
+  "description": "I love music, gaming, animals, and building memorable web experiences!",
   "socialProfiles": {
     "from": [
       "LinkedIn",
