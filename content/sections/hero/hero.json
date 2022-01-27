@@ -6,11 +6,11 @@
   },
   "title": "I'm Mahmoud",
   "subtitle": {
-    "prefix": " I'm a ",
+    "prefix": "I'm a ",
     "highlight": "Full-Stack",
-    "suffix": " Developer."
+    "suffix": " Developer"
   },
-  "description": "I love music, gaming, animals, and building memorable web experiences!",
+  "description": "I love music, gaming, and building memorable web experiences!",
   "socialProfiles": {
     "from": [
       "LinkedIn",
