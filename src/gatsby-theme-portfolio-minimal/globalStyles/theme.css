@@ -1,9 +1,9 @@
 body[data-theme='lightTheme'] {
-    --primary-color: #000000;
-    --secondary-color: #fff4d9;
+    --primary-color: #2079c7;
+    --secondary-color: #20c7265a;
     --tertiary-color: #f2f2f2;
     --text-color: #000000;
-    --subtext-color: #555555;
+    --subtext-color: #666666;
     --background-color: #ffffff;
     --card-background-color: #ffffff;
     --scroll-bar-color: rgba(0, 0, 0, 0.5);
@@ -13,7 +13,7 @@ body[data-theme='lightTheme'] {
 }
 
 body[data-theme='darkTheme'] {
-    --primary-color: #c6c6ff;
+    --primary-color: #2079c7;
     --secondary-color: #2a2926;
     --tertiary-color: #252525;
     --text-color: rgba(255, 255, 255, 0.87);
