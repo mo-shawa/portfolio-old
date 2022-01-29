@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Mahmoud 'Mo' Shawa",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg",
     "bio": "",
     "social": {
       "github": "https://github.com/mo-shawa/",
@@ -46,7 +46,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }
