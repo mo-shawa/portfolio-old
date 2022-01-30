@@ -1,10 +1,10 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://www.moshawa.com/",
     "title": "Mo",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Mahmoud Shawa's Website",
     "author": "Mahmoud 'Mo' Shawa",
     "avatar": "../content/images/IMG_1902.png",
     "bio": "",
