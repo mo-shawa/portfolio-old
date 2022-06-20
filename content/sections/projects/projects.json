@@ -4,16 +4,17 @@
       "visible": true,
       "category": "Ask a Robot",
       "title": "OpenAI AMA",
-      "description": "Ask an AI a question and get a response! You can ask questions like \"What is the meaning of life?\" or \"How is Mahmoud so impossibly cool?\"",
+      "description": "Ask an advanced AI a question and get a response! You can ask questions like \"What is the meaning of life?\" or \"How is Mahmoud so impossibly cool?\"",
       "tags": [
-        "OpenAI GPT-3",
+        "GPT-3",
         "React.js",
         "React Spring",
         "Node.js"
       ],
       "image": {
         "src": "../../images/OpenAI.png",
-        "alt": "OpenAI AMA Dashboard"
+        "alt": "OpenAI AMA Dashboard",
+        "linkTo": "http://openai-ama.herokuapp.com"
       },
       "links": [
         {
@@ -39,7 +40,8 @@
       ],
       "image": {
         "src": "../../images/SaveQuest_scaled.png",
-        "alt": "SaveQuest Dashboard"
+        "alt": "SaveQuest Dashboard",
+        "linkTo": "http://savequest.herokuapp.com"
       },
       "links": [
         {
@@ -65,7 +67,8 @@
       ],
       "image": {
         "src": "../../images/hellofren_scaled.png",
-        "alt": "HelloFren Feed"
+        "alt": "HelloFren Feed",
+        "linkTo": "http://hellofren.herokuapp.com"
       },
       "links": [
         {
@@ -92,7 +95,8 @@
       ],
       "image": {
         "src": "../../images/HoG_scaled.png",
-        "alt": "Quick Setup"
+        "alt": "Quick Setup",
+        "linkTo": "http://hallofgame.herokuapp.com"
       },
       "links": [
         {
@@ -118,7 +122,8 @@
       ],
       "image": {
         "src": "../../images/Blackjack_scaled.png",
-        "alt": "Blackjack Screenshot"
+        "alt": "Blackjack Screenshot",
+        "linkTo": "https://mo-shawa.github.io/Blackjack/"
       },
       "links": [
         {
