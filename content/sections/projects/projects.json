@@ -2,6 +2,32 @@
   "projects": [
     {
       "visible": true,
+      "category": "Ask a Robot",
+      "title": "OpenAI AMA",
+      "description": "Ask an AI a question and get a response! You can ask questions like \"What is the meaning of life?\" or \"How is Mahmoud so impossibly cool?\"",
+      "tags": [
+        "OpenAI GPT-3",
+        "React.js",
+        "React Spring",
+        "Node.js"
+      ],
+      "image": {
+        "src": "../../images/OpenAI.png",
+        "alt": "OpenAI AMA Dashboard"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/mo-shawa/openAI-AMA"
+        },
+        {
+          "type": "external",
+          "url": "http://openai-ama.herokuapp.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Budgeting made fun!",
       "title": "SaveQuest",
       "description": "SaveQuest gamifies the budgeting process, and encourages users to consistently track their expenses with EXP, levelling up, and a retro NES-style interface.",
