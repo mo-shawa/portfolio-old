@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mahmoud Shawa's Website",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public",
+    "deploy": "gatsby build && gh-pages -d public -b main",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
