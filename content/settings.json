@@ -1,8 +1,8 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://moshawa.com/",
-    "title": "Mo",
+    "siteUrl": "https://shawa.dev/",
+    "title": "Mahmoud Shawa",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Mahmoud Shawa's Website",
     "author": "Mahmoud Shawa",
@@ -16,7 +16,7 @@
   },
   "siteConfiguration": {
     "logo": {
-      "text": "Mo Shawa"
+      "text": "shawa.dev"
     },
     "navigation": {
       "header": [
