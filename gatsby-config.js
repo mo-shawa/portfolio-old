@@ -4,7 +4,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://www.moshawa.com/", // Used for sitemap generation
+        siteUrl: "https://shawa.dev", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "My Minimal Portfolio", // Used in manifest.json
