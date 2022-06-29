@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     min-height: 50vh;
-    background-color: var(--tertiary-color);
+    background-color: var(--background-color);
     border-radius: var(--border-radius);
 }
 
